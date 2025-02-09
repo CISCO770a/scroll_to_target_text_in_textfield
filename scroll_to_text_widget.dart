@@ -1,9 +1,6 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:plantstore/commons/app_dimentions.dart';
-import 'package:plantstore/constants/app_fonts.dart';
-import 'package:plantstore/constants/gaps.dart';
 
 class ScrollToTextWidget extends StatefulWidget {
   const ScrollToTextWidget({super.key});
